@@ -1,3 +1,5 @@
+<sup>[back to Teaching Home](https://github.com/jbenno/teaching)<sup>
+
 # Applied Machine Learning
 This is CS5785 at Cornell Tech
 Cross-listed as ORIE5750 and ECE5414
@@ -80,3 +82,7 @@ https://docs.google.com/spreadsheets/d/1ROAHDA2JSGSAtSryYAzoF7rgcUgJezpLkPfnbR2K
 
 This may give you orientation what to expect.\
 **It is a work in progress and will be updated!**
+
+
+***
+<sup>***[Applied Machine Learning](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno@mastodon.social](https://mastodon.social/@jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching)</sup>
